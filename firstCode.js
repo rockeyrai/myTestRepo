@@ -7,3 +7,9 @@ const numberVar =[42,28,3]
 function numberSum(a,b){
   return a + b
 }
+
+// this is my 10th try
+
+if(10<100){
+  console.log("10 is smaller than 100")
+}
